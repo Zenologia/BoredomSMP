@@ -1,0 +1,11 @@
+Paper Plugins:
+
+PaperTweaks
+
+Bukkit Plugins:
+
+AntiVillagerLag, AxiomPaper, bCosmo, ChromaAdvancements, Chunky, ChunkyBorder, CMILib, ColoredAnvils, CoreProtect, DiscordSRV
+dynmap, EndermanGriefBypass, EntityDetection, Essentials, EssentialsProtect, EssentialsSpawn, GSit, HexNicks, ImageFrame, InventoryRollbackPlus
+LiteBans, LiveStatus, LuckPerms, NightVision, NoChatReports, OpenInv, PlaceholderAPI, PlugManX, ProtocolLib, SmartInvs
+spark, StaffChat, StopVinesGrowing, SuperVanish, TAB, TogglePvp, UltimateAutoRestart, Vault, VentureChat, ViaBackwards
+ViaVersion, voicechat, WanderingTrades, WhitelistBot, WorldEdit, WorldGuard
