@@ -7,7 +7,6 @@ PaperTweaks
 Bukkit Plugins:
 
 AntiVillagerLag
-AxiomPaper
 bCosmo (custom plugin for hats)
 ChromaAdvancements (custom plugin to help with Blaze and Caves advancement management)
 Chunky
