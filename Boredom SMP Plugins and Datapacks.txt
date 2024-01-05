@@ -57,7 +57,7 @@ Datapacks:
 [file/BlazeandCaves Advancements Pack 1.20.4.zip (world)]
 [file/Crafting Tweaks.zip **(this adds droppers to dispensers, sandstone dyeing, universal dyeing, and craftable bundles using leather or rabbit hide)** (world)]
 [file/Custom_Warden_Loot.zip **(This makes swift sneak, echo shards, and the disc fragents renewable by the game registering a warden as killed by a plyer)** (world)]
-[file/Hatbag_Datapack1.1.zip **(This is our custom datapack that goes with our resource pack for our custom hats)** (world)]
+[file/Hatbag_Datapack1.1.zip **(This is our custom datapack that goes with our resource pack for our custom hats to put them in loot tables)** (world)] (temporarily removed until an issue with hats is fixed)
 [file/Woodcutter_v.2.0_1.20_snapshots.zip (world)]
 [file/better hanging signs v3.45.zip (world)]
 [file/deepslate-stonecutting-e2280.zip (world)]
