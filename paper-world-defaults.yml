@@ -4,6 +4,7 @@ anticheat:
     enabled: true
     engine-mode: 1
     hidden-blocks:
+    - ancient_debris
     - copper_ore
     - deepslate_copper_ore
     - gold_ore
@@ -25,7 +26,7 @@ anticheat:
     - emerald_ore
     - deepslate_emerald_ore
     - ender_chest
-    lava-obscures: false
+    lava-obscures: true
     max-block-height: 64
     replacement-blocks:
     - stone
