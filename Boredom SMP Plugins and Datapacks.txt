@@ -25,6 +25,7 @@ GSit
 HexNicks
 ImageFrame
 InventoryRollbackPlus
+InvStations (Custom plugin allowing Patreon memebrs, based on tier, to open a crafting table, stonecutter, or ender chest as long as it is in their inventory, without having to place it down)
 LiteBans
 LiveStatus
 LuckPerms
