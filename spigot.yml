@@ -131,7 +131,7 @@ world-settings:
       hopper-check: 1
     hopper-amount: 1
     hopper-can-load-chunks: false
-    dragon-death-sound-radius: 150
+    dragon-death-sound-radius: 100
     seed-village: [redacted]
     seed-desert: [redacted]
     seed-igloo: [redacted]
