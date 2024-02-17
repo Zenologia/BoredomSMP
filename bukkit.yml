@@ -24,9 +24,9 @@ ticks-per:
   animal-spawns: 400
   monster-spawns: 2
   water-spawns: 400
-  water-ambient-spawns: 400
+  water-ambient-spawns: 300
   water-underground-creature-spawns: 400
   axolotl-spawns: 400
-  ambient-spawns: 400
+  ambient-spawns: 300
   autosave: 6000
 aliases: now-in-commands.yml
