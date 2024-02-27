@@ -67,7 +67,7 @@ Datapacks:
 [file/armor statues v2.8.11 (MC 1.20-1.20.4).zip (world)]
 [file/more mob heads v2.12.4 (MC 1.20-1.20.4).zip (world)]
 [file/villager workstation highlights v1.1.6 (MC 1.20-1.20.4).zip (world)]
-[file/Extra crafting.zip (world)] (combines the crafting recipes of bones to boneblocks, cobbled deepslate to cobblestone, and craftable cobwebs).
+[file/Extra crafting.zip (world)] (combines the crafting recipes of bones to boneblocks, cobbled deepslate to cobblestone, coral and coral fans to corl blocks, and craftable cobwebs).
 
 Velocity Server Plugins:
 
