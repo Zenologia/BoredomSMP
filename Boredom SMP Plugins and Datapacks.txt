@@ -21,6 +21,7 @@ EntityDetection
 Essentials
 EssentialsProtect
 EssentialsSpawn
+FarmLimiter
 GSit
 HexNicks
 ImageFrame
