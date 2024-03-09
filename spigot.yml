@@ -161,8 +161,8 @@ world-settings:
       other-multiplier: 0.0
     max-tnt-per-tick: 100
     max-tick-time:
-      tile: 250
-      entity: 250
+      tile: 50
+      entity: 50
     verbose: false
   faweregentempworld:
     verbose: false
