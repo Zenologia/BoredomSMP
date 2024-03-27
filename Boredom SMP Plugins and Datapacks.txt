@@ -47,6 +47,7 @@ TAB
 TogglePvp
 UltimateAutoRestart
 Vault
+VillagerOverHaul
 VentureChat
 voicechat
 WanderingTrades
