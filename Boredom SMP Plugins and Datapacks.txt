@@ -53,6 +53,7 @@ WanderingTrades
 WhitelistBot
 WorldEdit
 WorldGuard
+WorldGuardExtraFlags
 
 Datapacks:
 
