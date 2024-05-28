@@ -45,6 +45,7 @@ StaffChat
 StopVinesGrowing
 SuperVanish
 TAB
+TCPShield
 TogglePvp
 UltimateAutoRestart
 Vault
@@ -79,3 +80,4 @@ VentureChat
 ViaVersion
 ViaBackwards
 Plan (Player Analytics)
+TCPShield
