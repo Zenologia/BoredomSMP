@@ -34,6 +34,7 @@ NightVision (Custom plugin to give toggleable night vision to boosters/patrons)
 NoChatReports
 OpenInv
 PlaceholderAPI
+Plan (Player Analytics)
 PlugManX
 ProtocolLib
 RaidTracker (Custom plugin to track pillager raids - staff use only)
@@ -77,3 +78,4 @@ ServerListPlus
 VentureChat
 ViaVersion
 ViaBackwards
+Plan (Player Analytics)
