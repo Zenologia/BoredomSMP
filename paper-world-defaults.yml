@@ -27,7 +27,7 @@ anticheat:
     - deepslate_emerald_ore
     - ender_chest
     lava-obscures: true
-    max-block-height: 64
+    max-block-height: 320
     replacement-blocks:
     - stone
     - oak_planks
