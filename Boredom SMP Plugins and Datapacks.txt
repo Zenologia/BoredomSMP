@@ -73,6 +73,7 @@ Datapacks:
 [file/track raw statistics v1.7.2 (MC 1.20-1.20.4).zip (world)]
 [file/track statistics v1.1.8 (MC 1.20-1.20.4).zip (world)]
 [file/unlock all recipes v2.0.7 (MC 1.20-1.20.4).zip (world)]
+[file/player head drops v1.1.6 (MC 1.20-1.20.4).zip (world)]
 
 Velocity Server Plugins:
 
