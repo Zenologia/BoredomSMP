@@ -84,4 +84,3 @@ VentureChat
 ViaVersion
 ViaBackwards
 Plan (Player Analytics)
-UltimateAutoRestart + Velocity Addon
